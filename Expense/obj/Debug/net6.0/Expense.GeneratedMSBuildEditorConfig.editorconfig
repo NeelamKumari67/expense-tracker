@@ -9,63 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Expense
 build_property.RootNamespace = Expense
-build_property.ProjectDir = D:\Expense-Tracking\Project\Expense\Expense\
+build_property.ProjectDir = D:\Project\expense-tracker\Expense\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Expense-Tracking\Project\Expense\Expense
+build_property.MSBuildProjectDirectory = D:\Project\expense-tracker\Expense
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Expense-Tracking/Project/Expense/Expense/Views/Category/AddOrEdit.cshtml]
+[D:/Project/expense-tracker/Expense/Views/Category/AddOrEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkT3JFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Expense-Tracking/Project/Expense/Expense/Views/Category/Index.cshtml]
+[D:/Project/expense-tracker/Expense/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Expense-Tracking/Project/Expense/Expense/Views/Dashboard/Index.cshtml]
+[D:/Project/expense-tracker/Expense/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Expense-Tracking/Project/Expense/Expense/Views/Home/Index.cshtml]
+[D:/Project/expense-tracker/Expense/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Expense-Tracking/Project/Expense/Expense/Views/Home/Privacy.cshtml]
+[D:/Project/expense-tracker/Expense/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Expense-Tracking/Project/Expense/Expense/Views/Shared/Error.cshtml]
+[D:/Project/expense-tracker/Expense/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Expense-Tracking/Project/Expense/Expense/Views/Shared/_SideBar.cshtml]
+[D:/Project/expense-tracker/Expense/Views/Shared/_SideBar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlQmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Expense-Tracking/Project/Expense/Expense/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Project/expense-tracker/Expense/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Expense-Tracking/Project/Expense/Expense/Views/Transaction/AddOrEdit.cshtml]
+[D:/Project/expense-tracker/Expense/Views/Transaction/AddOrEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25cQWRkT3JFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Expense-Tracking/Project/Expense/Expense/Views/Transaction/Index.cshtml]
+[D:/Project/expense-tracker/Expense/Views/Transaction/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Expense-Tracking/Project/Expense/Expense/Views/_ViewImports.cshtml]
+[D:/Project/expense-tracker/Expense/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Expense-Tracking/Project/Expense/Expense/Views/_ViewStart.cshtml]
+[D:/Project/expense-tracker/Expense/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Expense-Tracking/Project/Expense/Expense/Views/Shared/_Layout.cshtml]
+[D:/Project/expense-tracker/Expense/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-esr71l3hda
