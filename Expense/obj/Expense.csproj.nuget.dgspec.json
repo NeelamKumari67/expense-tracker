@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Expense-Tracking\\Project\\Expense\\Expense\\Expense.csproj": {}
+    "D:\\Project\\expense-tracker\\Expense\\Expense.csproj": {}
   },
   "projects": {
-    "D:\\Expense-Tracking\\Project\\Expense\\Expense\\Expense.csproj": {
+    "D:\\Project\\expense-tracker\\Expense\\Expense.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Expense-Tracking\\Project\\Expense\\Expense\\Expense.csproj",
+        "projectUniqueName": "D:\\Project\\expense-tracker\\Expense\\Expense.csproj",
         "projectName": "Expense",
-        "projectPath": "D:\\Expense-Tracking\\Project\\Expense\\Expense\\Expense.csproj",
+        "projectPath": "D:\\Project\\expense-tracker\\Expense\\Expense.csproj",
         "packagesPath": "C:\\Users\\Neelam Gautam\\.nuget\\packages\\",
-        "outputPath": "D:\\Expense-Tracking\\Project\\Expense\\Expense\\obj\\",
+        "outputPath": "D:\\Project\\expense-tracker\\Expense\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Neelam Gautam\\AppData\\Roaming\\NuGet\\NuGet.Config",
